@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PrimeIdealsCountingBounds",
+  "source_sha256": "973ae562f834e0e0f02d8e578806608743a2096ca6124a79f18cfa20ef53cdb2",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jjjhenriksen/alpoge-rh-replay/blob/port/p0126-lean436-ready/port/transcripts/P0126.ready.receipt.json"
+}

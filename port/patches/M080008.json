@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsIntegrallyClosedOfConductorNonZeroDivisorOfAss",
+  "source_sha256": "51054a13a448393e0ef684c3842ef7b051c1e357d7020b66a1505a24da36a65a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jjjhenriksen/alpoge-rh-replay/blob/port/p0126-lean436-ready/port/transcripts/P0126.ready.receipt.json"
+}

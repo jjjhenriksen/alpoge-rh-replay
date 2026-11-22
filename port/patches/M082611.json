@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TensorDomainBirationalStatement",
+  "source_sha256": "b9d1e7d8236a0d14a5d46ed91c0af0f0dcbf4706a5a75c3e564b2b7d6abd4e0e",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jjjhenriksen/alpoge-rh-replay/blob/port/p0126-lean436-ready/port/transcripts/P0126.ready.receipt.json"
+}

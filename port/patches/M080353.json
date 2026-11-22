@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentPolyEvalOfLaurentStatement",
+  "source_sha256": "a9844370c5a63350bea6bef38b076fecce012792435653c80cc387f54051b4b9",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jjjhenriksen/alpoge-rh-replay/blob/port/p0126-lean436-ready/port/transcripts/P0126.ready.receipt.json"
+}

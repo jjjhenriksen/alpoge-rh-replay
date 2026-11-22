@@ -1,0 +1,18 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/LineHyperplaneCut.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/LineHyperplaneCut.lean
+@@ -154,12 +154,12 @@
+         rw [hcc] at h1
+         show B (ρ a n₀) (T z) = 0
+         rw [← h1, action_eigen_left ρ χ ε hε, map_smul, hy0, smul_zero]
+-      | zero => simp [LinearMap.BilinForm.IsOrtho]
++      | zero => simp
+       | add u v _ _ hu hv =>
+-        simp only [LinearMap.BilinForm.IsOrtho, map_add, LinearMap.add_apply] at *
++        simp only [map_add, LinearMap.add_apply] at *
+         rw [hu, hv, add_zero]
+       | smul r u _ hu =>
+-        simp only [LinearMap.BilinForm.IsOrtho, map_smul, LinearMap.smul_apply] at *
++        simp only [map_smul, LinearMap.smul_apply] at *
+         rw [hu, smul_zero]
+     · rintro ⟨hx, hxE⟩
+       refine ⟨⟨x, hxE⟩, ?_, rfl⟩

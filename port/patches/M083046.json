@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.UnitriangularInductionTransvectionStatement",
+  "source_sha256": "c14bd82a1504e2dc8573abaa63baf7fb0bea6a86bebbd0545da2366094d80f9a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jjjhenriksen/alpoge-rh-replay/blob/port/p0126-lean436-ready/port/transcripts/P0126.ready.receipt.json"
+}

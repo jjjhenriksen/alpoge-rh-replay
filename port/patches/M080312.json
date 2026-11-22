@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeElementaryDivisors",
+  "source_sha256": "a3ee75f56e15472ea9de0acb975ea78fb6704e55e81e7e2485dd27ce9453294b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Keep the theorem statement unchanged. In the proof, the old finitely-generated spanning lattice is represented by IsFullLattice; IsLattice.of_fg supplies the new parent under the existing fraction-field assumption, and the original span_eq_top supplies fullness. Install the finite/free instances explicitly, and use extendOfIsFullLattice and its application lemma for the original entrywise matrix proof.",
+  "evidence": "https://github.com/jjjhenriksen/alpoge-rh-replay/blob/port/p0126-lean436-ready/port/transcripts/P0126.ready.receipt.json"
+}

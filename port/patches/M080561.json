@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LineHyperplaneCut",
+  "source_sha256": "8ea34ef012a5f0687e22f91887f4dbf6b44523b3a57ce2ae29bf11616a8dc68b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The target mem_orthogonal_iff already expresses orthogonality as a zero evaluation. Remove obsolete IsOrtho unfoldings and retain the add/smul proof.",
+  "evidence": "https://github.com/jjjhenriksen/alpoge-rh-replay/blob/port/p0126-lean436-ready/port/transcripts/P0126.ready.receipt.json"
+}
